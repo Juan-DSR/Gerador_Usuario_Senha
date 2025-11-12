@@ -48,6 +48,6 @@ def gerar_senha():
 senha = gerar_senha()
 
 print('\nUSUARIO:', new_user)
-print('SENHA', senha) 
+print('SENHA:', senha) 
 print('esse é um usuario e senha \033[1m temporarios\033[0m troque assim que puder! \n')
 
